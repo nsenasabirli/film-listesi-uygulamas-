@@ -1,0 +1,65 @@
+/* App.css */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+.app-card {
+  background-color: rgba(255, 255, 255, 0.9);
+  border: none;
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.app-card-header {
+  font-weight: bold;
+  color: #007bff;
+  margin-bottom: 20px;
+}
+
+.accent-color {
+  color: #007bff;
+}
+
+.app-background {
+  background-image: url('/Users/nahidesenasabirli/Downloads/WhatsApp Image 2023-08-14 at 14.56.44.jpeg');
+  background-size: cover;
+  background-repeat: repeat;
+  background-position: center center;
+  height: 100vh;
+}
+
+
+.form-group {
+  margin-bottom: 1rem;
+}
+
+.form-control {
+  border: 1px solid #ced4da;
+  border-radius: 5px;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+.btn-danger {
+  background-color: #dc3545;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+mt-3 {
+  margin-top: 1rem !important;
+}
+
+
