@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+![Ekran Resmi 2023-08-17 14 40 10](https://github.com/nsenasabirli/film-listesi-uygulamas-/assets/72200463/5246bb5f-14d3-41a2-899d-a5b6665d71c2)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
